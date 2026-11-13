@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/logo.png" width="120" alt="Logo de FlyNow">
+<img src="docs/logo.png" width="120">
 
 # FlyNow
 
