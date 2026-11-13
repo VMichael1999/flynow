@@ -31,6 +31,16 @@ class _LoginView extends StatefulWidget {
 class _LoginViewState extends State<_LoginView> {
   final _email = TextEditingController();
   final _password = TextEditingController();
+  bool _precached = false;
+
+  @override
+  void didChangeDependencies() {
+    super.didChangeDependencies();
+    if (_precached) return;
+    _precached = true;
+    // La imagen de cabecera se decodifica antes de pintar la pantalla.
+    precacheImage(const AssetImage(LoginHero.asset), context);
+  }
 
   @override
   void dispose() {
