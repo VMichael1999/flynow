@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flynow/app/di.dart';
+import 'package:flynow/core/theme/illustrations.dart';
 import 'package:flynow/features/booking/presentation/booking_flow_bloc.dart';
 import 'package:flynow/features/booking/presentation/pay_page.dart';
 import 'package:flynow/features/search/presentation/search_bloc.dart';
@@ -48,6 +49,7 @@ void main() {
         // Los logos de Google y Apple se decodifican de forma asíncrona.
         final context = t.element(find.byType(MaterialApp));
         await t.runAsync(() async {
+          await precacheImage(const AssetImage(LoginHero.asset), context);
           await precacheImage(
             const AssetImage('assets/images/google_logo.png'),
             context,
