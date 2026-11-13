@@ -1,0 +1,454 @@
+{
+  "@@locale": "es",
+  "appName": "FlyNow",
+  "navHome": "Inicio",
+  "navFlights": "Vuelos",
+  "navStatus": "Estado",
+  "navProfile": "Perfil",
+  "scanHint": "Apunta la cámara a un pase de abordar para agregarlo.",
+  "scanLabel": "Escanear pase de abordar",
+  "back": "Volver",
+  "notifications": "Notificaciones",
+  "filters": "Filtros",
+  "share": "Compartir",
+  "search": "Buscar",
+  "settings": "Ajustes",
+  "stepFare": "Tarifa",
+  "stepPassengers": "Pasajeros",
+  "stepSeats": "Asientos",
+  "stepPayment": "Pago",
+  "continueLabel": "Continuar",
+  "skip": "Omitir",
+  "labelFrom": "DESDE",
+  "labelTo": "HACIA",
+  "labelFlight": "VUELO",
+  "labelClass": "CLASE",
+  "labelSeats": "ASIENTOS",
+  "labelSeat": "ASIENTO",
+  "labelFare": "TARIFA",
+  "labelBestFare": "MEJOR TARIFA",
+  "labelGate": "PUERTA",
+  "labelDate": "FECHA",
+  "labelBoarding": "EMBARQUE",
+  "labelPassenger": "PASAJERO",
+  "labelReservation": "RESERVA",
+  "labelBoardingPass": "PASE DE ABORDAR",
+  "labelBookingCode": "CÓDIGO DE RESERVA",
+  "labelNextTrip": "PRÓXIMO VIAJE",
+  "perPerson": "por persona",
+  "labelTerminal": "TERMINAL",
+  "labelOnePassenger": "1 PASAJERO",
+  "checkInOpenPill": "Check-in abierto",
+  "splashTagline": "Vuela mejor, reserva más rápido",
+  "loginTitle": "Bienvenido de nuevo",
+  "loginSubtitle": "Tus viajes y pases de abordar te esperan",
+  "emailHint": "Ingresa tu correo",
+  "passwordHint": "Ingresa tu contraseña",
+  "showPassword": "Mostrar contraseña",
+  "hidePassword": "Ocultar contraseña",
+  "rememberMe": "Recordarme",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "signIn": "Iniciar sesión",
+  "orContinueWith": "O continúa con",
+  "google": "Google",
+  "apple": "Apple",
+  "noAccount": "¿No tienes cuenta? ",
+  "createAccount": "Crear una cuenta",
+  "signingIn": "Iniciando sesión",
+  "preparingTickets": "Preparando tus boletos",
+  "greeting": "Buenas tardes, Michael",
+  "whereTo": "¿A dónde vas?",
+  "tripOneWay": "Solo ida",
+  "tripRound": "Ida y vuelta",
+  "tripMulti": "Multidestino",
+  "fromBox": "Desde",
+  "toBox": "Hacia",
+  "swapAirports": "Intercambiar aeropuertos",
+  "departure": "Ida",
+  "returnLabel": "Vuelta",
+  "addDate": "Agregar fecha",
+  "passengersLabel": "Pasajeros",
+  "oneAdult": "1 adulto",
+  "classLabel": "Clase",
+  "economy": "Económica",
+  "searchFlights": "Buscar vuelos",
+  "popularRoutes": "Rutas populares",
+  "seeAll": "Ver todo",
+  "searchingFlights": "Buscando vuelos",
+  "selectFlightTitle": "Elige tu vuelo",
+  "flightDate": "Fecha de vuelo",
+  "calendar": "Calendario",
+  "refreshing": "Actualizando",
+  "faresUpdated": "Tarifas actualizadas",
+  "fareTitle": "Tarifa",
+  "chooseFare": "Elige tu tarifa",
+  "fareSubtitle": "Económica · por pasajero, solo ida",
+  "mostPopular": "Más elegida",
+  "fareFootnote": "Las tarifas son por pasajero, sin impuestos ni tasas de aeropuerto. Los asientos que te asignamos siempre son gratis.",
+  "whoTravels": "¿Quién viaja?",
+  "passportHint": "Escribe tus datos tal como aparecen en tu pasaporte",
+  "passengerOne": "Pasajero 1 · Adulto · Tú",
+  "edit": "Editar",
+  "birthDate": "Fecha de nacimiento",
+  "nationality": "Nacionalidad",
+  "passport": "Pasaporte",
+  "expires": "Vence",
+  "contactData": "Datos de contacto",
+  "contactSub": "Aquí llegan tus boletos y avisos del vuelo",
+  "emailField": "Correo",
+  "mobileField": "Celular",
+  "passportNote": "Los datos del pasaporte solo se envían a la aerolínea y a migraciones.",
+  "seatsTitle": "Asientos",
+  "aircraftClass": "Boeing 787 · Económica",
+  "noSeat": "Sin asiento",
+  "rowsRange": "Filas 1–16",
+  "cabinFront": "Cabina delantera · 41 de 64 libres",
+  "legendFree": "Libre",
+  "legendChosen": "Elegido",
+  "legendTaken": "Ocupado",
+  "legendExtra": "Más espacio",
+  "wc": "WC",
+  "exitLabel": "SALIDA",
+  "rowsMore": "Filas 17–32",
+  "extrasTitle": "Extras para el viaje",
+  "extrasSub": "Se agregan a todos los vuelos del viaje",
+  "initialsPassenger": "AP",
+  "reviewPay": "Revisa y paga",
+  "oneWay": "Solo ida",
+  "changeLabel": "Cambiar",
+  "addPromo": "Agregar código promocional",
+  "priceDetail": "Detalle del precio",
+  "taxesLine": "Impuestos y tasas",
+  "seatsLine": "Asientos",
+  "included": "Incluido",
+  "totalLabel": "Total",
+  "securePayment": "Pago seguro y cifrado · se cobra en USD",
+  "confirmingBooking": "Confirmando tu reserva",
+  "visaLine": "Visa •••• 4242",
+  "visaExpiry": "Vence 08/29",
+  "bookingConfirmed": "Reserva confirmada",
+  "bookingCode": "Código de reserva",
+  "totalPaid": "Total pagado",
+  "passengerSingle": "Pasajero",
+  "addToCalendar": "Agregar al calendario",
+  "viewTrip": "Ver viaje",
+  "backHome": "Volver al inicio",
+  "copyCode": "Copiar código",
+  "tripDetail": "Detalle del viaje",
+  "confirmedChip": "Confirmada",
+  "actCheckIn": "Check-in",
+  "actBoardingPass": "Pase de abordar",
+  "actAfterCheckIn": "Tras el check-in",
+  "actOpen": "Abierto",
+  "actFlightStatus": "Estado del vuelo",
+  "actAddBaggage": "Agregar maleta",
+  "actChangeSeat": "Cambiar asiento",
+  "actFree": "Gratis",
+  "actTicket": "Boleto",
+  "actPdf": "PDF",
+  "actOneFlight": "1 vuelo",
+  "actShareTrip": "Compartir viaje",
+  "actItinerary": "Itinerario",
+  "actCancel": "Cancelar",
+  "actSmallFee": "Pequeño cargo",
+  "checkInOpenTitle": "Check-in abierto",
+  "checkInDone": "Check-in listo. Tu pase de abordar ya está disponible.",
+  "myFlights": "Mis vuelos",
+  "doCheckIn": "Hacer check-in",
+  "segUpcoming": "Próximos",
+  "segPast": "Pasados",
+  "segCancelled": "Cancelados",
+  "pastToast": "2 viajes pasados: Cusco y Buenos Aires.",
+  "cancelledToast": "1 viaje cancelado y reembolsado.",
+  "flightStatus": "Estado de vuelos",
+  "byFlightNumber": "Número de vuelo",
+  "byRoute": "Ruta",
+  "flightNumberHint": "Número de vuelo, ej. GA 159",
+  "yesterday": "Ayer",
+  "today": "Hoy",
+  "tomorrow": "Mañana",
+  "checkStatus": "Consultar estado",
+  "liveBoard": "Tablero en vivo",
+  "updatedNow": "Actualizado recién",
+  "yourFlights": "Tus vuelos",
+  "liveForTrips": "En vivo para cada viaje que tienes",
+  "departsInLabel": "Sale en",
+  "onTime": "A tiempo",
+  "statusToast": "GA 159 está a tiempo. Puerta A9.",
+  "editProfile": "Editar perfil",
+  "flyFrom": "Vuela desde {city} · {code}",
+  "statTrips": "Viajes hechos",
+  "statCities": "Ciudades",
+  "statUpcoming": "Próximos",
+  "groupAccount": "Cuenta",
+  "personalData": "Datos personales",
+  "savedPassengers": "Pasajeros guardados",
+  "paymentMethods": "Métodos de pago",
+  "travelDocs": "Documentos de viaje",
+  "groupPrefs": "Preferencias",
+  "flightAlerts": "Alertas de vuelo",
+  "seatPref": "Asiento preferido",
+  "currency": "Moneda",
+  "groupHelp": "Ayuda",
+  "helpCenter": "Centro de ayuda",
+  "privacy": "Privacidad y seguridad",
+  "logout": "Cerrar sesión",
+  "versionLabel": "FlyNow · Versión 1.0.0",
+  "airlinesCount": "{count} aerolíneas",
+  "@airlinesCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fareCaption": "1 pasajero · incl. {taxes} de impuestos",
+  "@fareCaption": {
+    "placeholders": {
+      "taxes": {
+        "type": "String"
+      }
+    }
+  },
+  "paxCaption": "1 pasajero · tarifa {fare}",
+  "@paxCaption": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "seatCaptionNone": "Elige un asiento para {name} u omite",
+  "@seatCaptionNone": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "seatCaptionFree": "1 asiento · sin costo de asiento",
+  "seatCaptionExtra": "1 asiento · más espacio +{fee}",
+  "@seatCaptionExtra": {
+    "placeholders": {
+      "fee": {
+        "type": "String"
+      }
+    }
+  },
+  "payCaptionAccept": "Acepta los términos para pagar",
+  "payCaptionOk": "1 pasajero · incl. impuestos y tasas",
+  "fareIncludes": "{name} incluye",
+  "@fareIncludes": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "seatNote": "Los asientos estándar están incluidos en {fare}. Más espacio para las piernas: {fee}.",
+  "@seatNote": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      },
+      "fee": {
+        "type": "String"
+      }
+    }
+  },
+  "payButton": "Pagar {total}",
+  "@payButton": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "payingDetail": "Visa •••• 4242 · {total}",
+  "@payingDetail": {
+    "placeholders": {
+      "total": {
+        "type": "String"
+      }
+    }
+  },
+  "economyFare": "Económica {fare}",
+  "@economyFare": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "agreeText": "Acepto las reglas de la tarifa {fare}, las condiciones de transporte y la política de mercancías peligrosas.",
+  "@agreeText": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "seatWord": "Asiento {seat}",
+  "@seatWord": {
+    "placeholders": {
+      "seat": {
+        "type": "String"
+      }
+    }
+  },
+  "seatSemanticsExtra": "Asiento {seat}, más espacio",
+  "@seatSemanticsExtra": {
+    "placeholders": {
+      "seat": {
+        "type": "String"
+      }
+    }
+  },
+  "seatSemanticsTaken": "Asiento {seat} ocupado",
+  "@seatSemanticsTaken": {
+    "placeholders": {
+      "seat": {
+        "type": "String"
+      }
+    }
+  },
+  "yourFlightDate": "Tu vuelo · {date}",
+  "@yourFlightDate": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "yourFlightLine": "Tu vuelo · {date} · {flight}",
+  "@yourFlightLine": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "flight": {
+        "type": "String"
+      }
+    }
+  },
+  "ticketsTo": "Boletos a {email}",
+  "@ticketsTo": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "ticketsOnWay": "Los boletos de todos van en camino a {email}",
+  "@ticketsOnWay": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "oneWayFareSummary": "Solo ida · {fare} · 1 pasajero",
+  "@oneWayFareSummary": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "oneWayDateFare": "Solo ida · {date} · {fare}",
+  "@oneWayDateFare": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      },
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "departsIn": "Sale en {time}",
+  "@departsIn": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "closesOn": "Cierra el {date}",
+  "@closesOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "checkInClosesOn": "El check-in online cierra el {date}",
+  "@checkInClosesOn": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "fromPrice": "Desde {price}",
+  "@fromPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "tripsCount": "{count, plural, =1{1 viaje} other{{count} viajes}}",
+  "@tripsCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "extraPrice": "+{price}",
+  "@extraPrice": {
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "freeSeats": "{count} libres",
+  "@freeSeats": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "fareLine": "Tarifa {fare}",
+  "@fareLine": {
+    "placeholders": {
+      "fare": {
+        "type": "String"
+      }
+    }
+  },
+  "headlineTrip": "¡Te vas a {city}!",
+  "@headlineTrip": {
+    "placeholders": {
+      "city": {
+        "type": "String"
+      }
+    }
+  },
+  "seatFeeAria": "Elige un asiento",
+  "@flyFrom": {
+    "placeholders": {
+      "city": {
+        "type": "String"
+      },
+      "code": {
+        "type": "String"
+      }
+    }
+  },
+  "chooseOrigin": "Elige el origen",
+  "chooseDestination": "Elige el destino"
+}
