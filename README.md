@@ -2,8 +2,6 @@
 
 <img src="docs/logo.png" width="120">
 
-# FlyNow
-
 **App móvil para buscar, reservar y gestionar vuelos.**
 Un mockup funcional con buena UI/UX, animaciones cuidadas y arquitectura limpia.
 
